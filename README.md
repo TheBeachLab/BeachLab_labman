@@ -10,10 +10,10 @@
 
 Welcome here! My name is Francisco, I am currently based in Dubai and the temperature outdoors is pleasant 42C. You have landed in Fab Academy 2017 page for the intructor's final project at FabLab UAE.
 
-- Project Name: Labman
-- Originally created by: Francisco
-- Date: May 2017
-- License: CC-SA-BY-4.0
+* Project Name: Labman
+* Originally created by: Francisco
+* Date: May 2017
+* License: CC-SA-BY-4.0
 
 ## The story behind Labman
 
